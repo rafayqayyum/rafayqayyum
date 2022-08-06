@@ -2,13 +2,12 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rafayqayyum"><img src="https://img.shields.io/badge/-Rafay%20Qayyum-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:rafayqayyum786@gmail.com"><img src="https://www.iconfinder.com/icons/4202011/email_gmail_mail_logo_social_social_media_icon"/></a>
 
 ## About Me 
 
 - 🎮 Passionate about games and coding
 - 🎓 BSng in Computer Science on progress
-- 🧑‍💻 Data Scientist
+- 💻 Data Scientist
 
 
 </br>
@@ -22,19 +21,3 @@
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafayqayyum&theme=merko"/>
 </a>
 </p>
-
-
-<!--
-**DouglasDRF/DouglasDRF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
