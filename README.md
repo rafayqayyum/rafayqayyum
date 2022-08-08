@@ -6,7 +6,7 @@
 ## About Me 
 
 - 🎮 Passionate about games and coding
-- 🎓 BSng in Computer Science on progress
+- 🎓 BSng in Computer Science
 - 💻 Data Scientist
 
 
