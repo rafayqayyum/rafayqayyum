@@ -16,7 +16,7 @@
 
 <p align="center">
 <a href="https://github.com/rafayqayyum">
-  <img  align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafayqayyum&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,ruby,swift,kotlin,shell" />
-  <img  align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafayqayyum&theme=merko"/>
+  <img  align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafayqayyum&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,ruby,swift,kotlin,shell" />
+  <img  align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafayqayyum&theme=merko"/>
 </a>
 </p>
