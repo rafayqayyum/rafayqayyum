@@ -7,7 +7,6 @@
 
 - 🎮 Passionate about games and coding
 - 🎓 BSng in Computer Science
-- 💻 Data Scientist
 
 
 </br>
