@@ -5,8 +5,7 @@
 
 ## About Me 
 
-- 🎮 Passionate about games and coding
-- 🎓 BS in Computer Science
+- BS in Computer Science
 - Machine Learning & Deep Learning
 
 
