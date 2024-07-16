@@ -2,12 +2,13 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rafayqayyum"><img src="https://img.shields.io/badge/-Rafay%20Qayyum-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@rafayqayyum"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
+</p>
 
 ## About Me 
 
 - BS in Computer Science
 - Machine Learning & Deep Learning
-
 
 </br>
 
